@@ -1,0 +1,13 @@
+UPDATE `comments` SET COMMENT=OOF WHERE ID=14, UPDATE `comments` SET COMMENT=Semlelltad WHERE ID=14, UPDATE `comments` SET COMMENT=dadadadad WHERE ID=14, UPDATE `comments` SET COMMENT=aaaaaaaaaaaaaaaaaaaaaaaaa WHERE ID=14, UPDATE `comments` SET COMMENT=Oof WHERE ID=14, UPDATE `comments` SET COMMENT=Ooff WHERE ID=14, UPDATE `comments` SET COMMENT=Ooff WHERE ID=14, UPDATE `comments` SET COMMENT=HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH WHERE ID=35, UPDATE `comments` SET COMMENT=Ahmad Hadi bin ahmad hadi WHERE ID=14, UPDATE `comments` SET COMMENT=HHHHHHHHHAAHAAHHAAHHHHHHHHHHHHHHHHHAHAHAHHAHAH WHERE ID=35, 
+UPDATE `comments` SET COMMENT=lmaos WHERE ID=35
+UPDATE `comments` SET COMMENT=sssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssssss WHERE ID=35
+UPDATE `comments` SET COMMENT=vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv WHERE ID=35
+UPDATE `comments` SET COMMENT=fffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff WHERE ID=35
+UPDATE `comments` SET COMMENT=the big brown ragiibrt ion the streat dgbe d g d eladjkhflkja df ga gdkjlhlfkadjhfkljh fgdagkljhdkljgh dlajfhklajdhg jdhgjdhjhdg adjhflakjhgklajsdhg  WHERE ID=35
+UPDATE `comments` SET COMMENT=yayaya WHERE ID=35
+UPDATE `comments` SET COMMENT=AHHAAHHAH WHERE ID=14
+UPDATE `comments` SET COMMENT=AHHHAHA WHERE ID=35
+UPDATE `comments` SET COMMENT=hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh WHERE ID=14
+UPDATE `comments` SET COMMENT=AHmad HAdi\r\n WHERE ID=14
+UPDATE `comments` SET COMMENT=AHmad hadifsa\r\n WHERE ID=14
+UPDATE `comments` SET COMMENT=Ahmad Haf WHERE ID=14

@@ -1,0 +1,3 @@
+Admin account (if needed)
+email: xavierkohjc@gmail.com
+password: 1
